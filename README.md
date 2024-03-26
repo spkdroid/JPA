@@ -1,6 +1,6 @@
 # JPA
 
-Creating a JPA application with a PostgreSQL database involves several steps, from setting up your project environment to writing entity classes and performing CRUD operations. Below is a step-by-step guide to creating a simple JPA application using PostgreSQL.
+Creating a JPA application with a PostgreSQL database.
 
 ### Step 1: Setup Dependencies Project
 
